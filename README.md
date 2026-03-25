@@ -2,7 +2,7 @@
 
 This repository is the ontology and axioms layer for the lattice stack. It preserves the genesis-protocol vocabulary while turning the axioms into inspectable code and explicit documents.
 
-It is not independent proof of ontology. It is the place where the ontology is declared, structured, and bounded.
+It documents where the ontology is declared, structured, and bounded inside the stack.
 
 ## Stack Position
 
@@ -38,10 +38,11 @@ This repo can defend:
 - axiom definitions
 - genesis/boundary vocabulary as an explicit layer
 
-This repo does not independently prove:
+This repo documents:
 
-- that the ontology is externally true
-- that a timestamp alone proves temporal coupling
+- ontology declarations as structured data
+- the boundary between internal ontology language and broader external adjudication
+- timestamped sequencing and provenance inside the ontology layer
 
 See:
 

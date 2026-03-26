@@ -1,8 +1,8 @@
 # Quantum Coherence Ontology
 
-This is the ontology spine of the lattice stack.
+This repository is the ontology and axioms layer for the lattice stack. It preserves the genesis-protocol vocabulary while turning the axioms into inspectable code and explicit documents.
 
-It preserves the genesis-protocol vocabulary as the actual axiomatic layer of the system while turning those axioms into inspectable code and explicit documents.
+It documents where the ontology is declared, structured, and bounded inside the stack.
 
 ## Stack Position
 

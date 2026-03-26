@@ -2,7 +2,7 @@
 
 This repo is where ontology is named explicitly.
 
-That is valuable, but it is not the same thing as independent evidence.
+That is valuable because it fixes the axiom layer in explicit form.
 
 Downstream repos should therefore cite this repo as:
 
@@ -10,4 +10,4 @@ Downstream repos should therefore cite this repo as:
 - axiom source
 - vocabulary source
 
-and not as stand-alone empirical proof.
+and not as a stand-alone empirical capture repo.
